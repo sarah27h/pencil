@@ -63,6 +63,7 @@ Windows, Linux, OS X & Firefox Packages are available for download from the
 
 You can also install the Firefox Add-on from the [Mozilla Add-on
 Repository][amo-pkg].
+Note: Not compatible with Firefox Quantum.
 
 To install the OS X package, unzip the archive and copy the `Pencil.app` folder
 to your `Applications` directory.
